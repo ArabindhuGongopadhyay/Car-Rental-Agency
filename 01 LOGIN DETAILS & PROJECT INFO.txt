@@ -1,0 +1,16 @@
+**Database Name: carrentalp**
+
+
+**Recommended PHP Version 5.6.3 and 8.4.12**
+
+
+**Customer Login Details**
+
+Username: pritam
+Password: 2222
+
+
+**Employee Login Details**
+
+Username: arabindhu
+Password: 1111
